@@ -1,5 +1,5 @@
 import React from "react";
-import "https://kit.fontawesome.com/633eaa11fa.js"
+import fontawesome from "https://kit.fontawesome.com/633eaa11fa.js"
 import * as BubbleSort from "../algorithms/BubbleSort"
 import * as SelectionSort from "../algorithms/SelectionSort"
 import * as InsertionSort from "../algorithms/InsertionSort"
